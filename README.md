@@ -9,7 +9,7 @@ a) Format input database
         sh format.sh data/database.txt
         
 b) Similarity Search 
-        sh search.sh data/database.txt "C[C@H](O)C(O)=O"
+        sh search.sh data/database.txt "C[C@H](O)C(O)=O" 2
         
         
 
